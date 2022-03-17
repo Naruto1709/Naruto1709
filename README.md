@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Naruto1709
-- 👀 I’m interested in ...NUKING 
-- 🌱 I’m currently learning ...phython
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Naruto
 
 <!---
 Naruto1709/Naruto1709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
